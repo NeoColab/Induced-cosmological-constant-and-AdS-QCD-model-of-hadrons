@@ -4,7 +4,7 @@
 ### Execution Order
 To obtain the correct results, run the notebooks in the following order:
 
-1. **Rho.nb** ➝ 2. **scalar.nb** ➝ 3. **Pion.nb** ➝ 4. **a1.nb**
+1. **Rho.nb** ➝ (*Optional:* **scalar.nb**) ➝ 2. **Pion.nb** ➝ 3. **a1.nb**
 
 Once these are completed, you can evaluate the plotting notebooks:
 
